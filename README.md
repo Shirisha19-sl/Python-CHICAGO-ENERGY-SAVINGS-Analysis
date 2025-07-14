@@ -16,3 +16,10 @@ Visualizations (bar charts, heatmaps, boxplots) revealed patterns in GHG emissio
 Naive Bayes, Logistic Regression, Decision Tree, Gradient Boosting.Forecasting Model: ARIMA for GHG emissions time series.
 #### Classification Metrics: 
 Accuracy, sensitivity, specificity evaluated using confusion matrices; binary classification used to improve performance measurement
+
+## Results
+
+Gradient Boosting achieved the best overall classification accuracy (87% cross-validation, 99% binary).
+Decision Trees performed well but showed signs of overfitting on training data.
+Logistic Regression had strong sensitivity but poor specificity, suggesting issues with class imbalance.
+<img width="1947" height="796" alt="Results" src="https://github.com/user-attachments/assets/7ccc1c8d-c35e-4fa8-91dc-756fe44c67da" />
