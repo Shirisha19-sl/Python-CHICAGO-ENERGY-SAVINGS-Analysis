@@ -23,3 +23,7 @@ Gradient Boosting achieved the best overall classification accuracy (87% cross-v
 Decision Trees performed well but showed signs of overfitting on training data.
 Logistic Regression had strong sensitivity but poor specificity, suggesting issues with class imbalance.
 <img width="1947" height="796" alt="Results" src="https://github.com/user-attachments/assets/7ccc1c8d-c35e-4fa8-91dc-756fe44c67da" />
+
+## Forecasting Performance:
+ARIMA model showed good stationarity (p<0.05), low prediction error, and realistic trend capture.
+<img width="2080" height="1050" alt="ARIMA Model" src="https://github.com/user-attachments/assets/e06395cf-b377-4821-bf95-1096d60d6ee9" />
