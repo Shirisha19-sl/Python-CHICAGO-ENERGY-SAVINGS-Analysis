@@ -1,6 +1,6 @@
 # Python-CHICAGO-ENERGY-SAVINGS-Analysis
 
-## Introduction:
+## Introduction
 Urban buildings significantly contribute to energy consumption and greenhouse gas emissions, requiring targeted efficiency improvements for sustainability.
 The Chicago Energy Benchmarking dataset, encompassing over 24,000 properties, offers a comprehensive view into building-level energy performance and emissions.
 This study evaluates energy use patterns, identifies inefficiencies, forecasts future emission trends, and proposes strategies to improve building energy efficiency.
@@ -30,7 +30,7 @@ ARIMA model showed good stationarity (p<0.05), low prediction error, and realist
 
 <img width="2080" height="1050" alt="ARIMA Model" src="https://github.com/user-attachments/assets/e06395cf-b377-4821-bf95-1096d60d6ee9" />
 
-## Insight Summary:
+## Insight Summary
 Larger building size alone does not dictate poor energy efficiency; operational behavior, equipment usage, and building systems are more influential factors.
 Certain property types like healthcare, laboratories, and data centers are inherently energy-intensive and require targeted efficiency improvements.
 Strong positive correlations were found between energy consumption variables (electricity, gas) and total GHG emissions, while Energy Star scores inversely correlated with emissions, validating their reliability.
